@@ -1,4 +1,4 @@
-# <p align="center">《凹凸数读》文章涉及的python代码</p>
+# <p align="center">朱小五写文章涉及的python代码</p>
 
 
 <p align="center">
@@ -8,13 +8,18 @@
 </p>
 
 ### 
-把《凹凸数读》文中涉及到的数据分析，爬虫，源数据放在GitHub，方便大家自取
+朱小五写文章涉及到的数据分析，爬虫，源数据放在GitHub，方便大家自取
 </br>
 
 ### 
-记得加星，文章点赞！文章和代码都会持续更新的！
+记得加星，文章点好看！文章和代码都会持续更新的！
 
-欢迎关注我们：
+
+朱小五在这里原创写数据分析文章：
+<img src="https://github.com/zpw1995/aotodata/blob/master/wanshuju.jpg" width="550" />
+
+
+朱小五和女朋友王小九利用数据分析的结果写文章：
 <img src="https://github.com/zpw1995/aotodata/blob/master/aotudata.png" width="550" />
 
 
