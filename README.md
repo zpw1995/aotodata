@@ -16,10 +16,12 @@
 
 ### 
 朱小五在这里原创写数据分析文章：
+### 
 <img src="https://github.com/zpw1995/aotodata/blob/master/wanshuju.jpg" width="550" />
 
 ### 
 朱小五和女朋友王小九利用数据分析的结果写文章：
+### 
 <img src="https://github.com/zpw1995/aotodata/blob/master/aotudata.png" width="550" />
 
 
