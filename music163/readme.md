@@ -24,7 +24,7 @@
 朱小五在这里原创写数据分析文章：
 
 ### 
-<img src="https://github.com/zpw1995/aotodata/blob/master/zhuxiaowu.jpg" width="550" />
+<img src="https://github.com/zpw1995/aotodata/blob/master/picture/wanshuju2.jpg" width="550" />
 
 
 
