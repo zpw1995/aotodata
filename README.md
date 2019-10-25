@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/Python-3.6-blue.svg">
         </a>
     <a href="https://wx2.sinaimg.cn/mw690/006udgLmly1g8ailhbj4nj30p00anmy8.jpg">
-        <img src="https://img.shields.io/static/v1.svg?label=微信公众号&message=凹凸玩数据&color=ff69b4">
+        <img src="https://img.shields.io/static/v1.svg?label=%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7&message=%E5%87%B9%E5%87%B8%E7%8E%A9%E6%95%B0%E6%8D%AE&color=ff69b4">
         </a>
 </p>
 
