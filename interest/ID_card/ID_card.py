@@ -39,5 +39,3 @@ vali_dator('330221','1993','4914')
 #print(validator.get_info('330221199306084914'))
 
 
-
-
